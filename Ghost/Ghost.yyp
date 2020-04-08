@@ -159,6 +159,22 @@
             }
         },
         {
+<<<<<<< HEAD
+            "Key": "a30fa134-8476-48e6-8faa-8585a5eae651",
+            "Value": {
+                "id": "e185f773-d278-4d76-9537-883a088eb5de",
+                "resourcePath": "objects\\oEnemy2\\oEnemy2.yy",
+                "resourceType": "GMObject"
+=======
+            "Key": "9b8b02a9-2c87-42f1-b049-badbe45e0492",
+            "Value": {
+                "id": "79f9d8cc-ce18-4911-88c2-8093bafcf24e",
+                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourceType": "GMSprite"
+>>>>>>> db21f55049ea321c07728ba39e9d83edecb2eed4
+            }
+        },
+        {
             "Key": "a6279574-6976-490a-a243-e57f95f9c209",
             "Value": {
                 "id": "a9951d62-a3e5-4aec-8013-68febec2d02c",
