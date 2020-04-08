@@ -1,2 +1,2 @@
-respawn("Hit Enemy");
+respawn(224,928,"Hit Enemy");
 

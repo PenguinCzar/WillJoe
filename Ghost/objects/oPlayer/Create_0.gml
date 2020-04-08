@@ -6,6 +6,8 @@ grv = 0.3;
 walksp = 7;
 hascontrol = 1;
 
+
+
 jumpspeed = 7; 
 jumps = 2;
 jumpsmax = 2;

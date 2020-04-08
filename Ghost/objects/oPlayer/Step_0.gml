@@ -76,6 +76,7 @@ if (vsp < 0) && (!key_jump_held) vsp = max(vsp,-jumpspeed/4);
 #endregion
 #region check death
 if(y >= 1536){
-	respawn("Fell");
+	respawn(224,928,"Fell");
 }
+
 #endregion
