@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "f33d8599-f00b-437e-97f1-f448622d5361",
+            "Value": {
+                "id": "3aee80ab-0575-4088-b150-aa143b40297e",
+                "resourcePath": "scripts\\respawn\\respawn.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "bdc91d5e-42da-4249-8eb4-b64835cf1d24",
@@ -232,7 +240,7 @@
         }
     ],
     "script_order": [
-        
+        "f33d8599-f00b-437e-97f1-f448622d5361"
     ],
     "tutorial": ""
 }
