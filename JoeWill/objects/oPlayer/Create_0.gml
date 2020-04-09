@@ -13,4 +13,3 @@ jumps = 2;
 jumps = 0;
 
 jumpsmax = 2;
-exploding = false;
