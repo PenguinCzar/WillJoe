@@ -5,16 +5,6 @@
     "name": "oExplode",
     "eventList": [
         {
-            "id": "433e6747-9fe6-4495-92a7-d6d2289b285c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "a59df006-66f3-450b-9919-dc46a2456cb7"
-        },
-        {
             "id": "1a146d4f-9d75-4aa1-9927-3c7433befa1f",
             "modelName": "GMEvent",
             "mvc": "1.0",
