@@ -75,3 +75,27 @@ if(y >= 1536){
 	respawn("Fell");
 }
 #endregion
+#region //Animation
+	if (!place_meeting(x,y+1,oWall))
+	{
+		sprite_index = sprite5;
+		image_speed = 0;
+		if (sign(vsp) > 0) image_index = 1; else image_index = 0;
+
+	}
+	else 
+	{
+		
+		image_speed = 1;
+		if (hsp == 0)
+		{
+			sprite_index = sprite5;
+		}
+		else
+		{
+			sprite_index = ghostmove;
+		}
+	}
+
+	if (hsp != 0) image_xscale = sign(hsp);
+#endregion
