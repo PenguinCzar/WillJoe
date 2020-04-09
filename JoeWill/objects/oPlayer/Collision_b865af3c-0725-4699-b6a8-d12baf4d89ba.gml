@@ -1,1 +1,1 @@
-respawn("Hit Enemy");
+instance_change(oExplode,true);

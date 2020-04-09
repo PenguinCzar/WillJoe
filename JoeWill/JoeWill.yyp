@@ -207,10 +207,18 @@
             }
         },
         {
+            "Key": "a59df006-66f3-450b-9919-dc46a2456cb7",
+            "Value": {
+                "id": "15a46139-5148-4d0d-b3f1-6841668da79f",
+                "resourcePath": "objects\\oExplode\\oExplode.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a6e2ac0c-aa76-4032-9f70-7ccc63d5fe7f",
             "Value": {
                 "id": "76047715-144c-444a-b809-f6aca5153140",
-                "resourcePath": "sprites\\explode\\explode.yy",
+                "resourcePath": "sprites\\ghostexplode\\ghostexplode.yy",
                 "resourceType": "GMSprite"
             }
         },
