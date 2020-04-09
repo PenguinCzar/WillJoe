@@ -6,5 +6,5 @@ hascontrol = 1;
 
 
 jumpspeed = 7;
-jumps = 0;
-jumpsmax = 1;
+jumps = 2;
+jumpsmax = 2;
