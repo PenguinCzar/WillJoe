@@ -17,8 +17,12 @@ if(menu_control){
 }
 
 if(menu_x > gui_width + 150) && (menu_commited != -1){
-	switch(menu_commited){
-		case 2: default: transition(TRANS_MODE.NEXT); break;
-		case 0: game_end(); break;
+	if(menu_commited = 2){
+		oText.doit = true;
+		instance_destroy();
+	}else if(menu_commited = 0){
+		game_end();	
+	}else if(menu_commited = 1){
+		game_end();		
 	}
 }

@@ -1,0 +1,11 @@
+draw_set_color(c_black);
+draw_set_font(fMenu);
+draw_set_halign(fa_center);
+draw_set_valign(fa_top);
+draw_set_color(c_black);
+draw_text(oSPlayer.x-2,128,text_current);
+draw_text(oSPlayer.x+2,128,text_current);
+draw_text(oSPlayer.x,128-2,text_current);
+draw_text(oSPlayer.x,128+2,text_current);
+draw_set_color(c_white);
+draw_text(oSPlayer.x,128,text_current);

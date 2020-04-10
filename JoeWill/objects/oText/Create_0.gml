@@ -1,0 +1,9 @@
+spd = 0.15;
+letters = 0;
+text[0] = "Theres something here.";
+text[1] = "I can feel it.";
+textnum = 2;
+textnumc = 1;
+length = string_length(text[0]);
+text_current = "";
+doit = false;

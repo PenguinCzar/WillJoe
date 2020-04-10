@@ -90,7 +90,7 @@
             "Key": "2e90c603-82b0-4401-b332-d67d37d72086",
             "Value": {
                 "id": "893948bc-b68b-4bb9-b660-d502d9a9c079",
-                "resourcePath": "objects\\object12\\object12.yy",
+                "resourcePath": "objects\\oText\\oText.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -348,6 +348,14 @@
                 "id": "92cc9523-1021-4647-bb2b-28e5aab47577",
                 "resourcePath": "views\\d2103017-0cd8-4d14-9769-649adf3c45e5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7c3ec1b-e72c-426b-a109-e366d77b2fe6",
+            "Value": {
+                "id": "455e851b-8b0c-47af-bb39-c9c6ac3603c9",
+                "resourcePath": "objects\\object13\\object13.yy",
+                "resourceType": "GMObject"
             }
         },
         {
