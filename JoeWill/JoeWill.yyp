@@ -106,7 +106,7 @@
             "Key": "594bbc10-a7a8-4f2e-912f-af8bb8f59366",
             "Value": {
                 "id": "5de05c89-d810-47af-9541-351673a51fe4",
-                "resourcePath": "sprites\\sprite8\\sprite8.yy",
+                "resourcePath": "sprites\\sTiles\\sTiles.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -196,6 +196,14 @@
                 "id": "1c8cedeb-7445-450a-8a51-500742bf7d46",
                 "resourcePath": "sprites\\sprite5\\sprite5.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9c02c81a-d8b4-4099-8e08-df06b3964627",
+            "Value": {
+                "id": "6855847f-2fa4-4008-8e12-20c2f09193f0",
+                "resourcePath": "tilesets\\tTiles\\tTiles.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
