@@ -6,3 +6,13 @@ if(ready){
 		transition(TRANS_MODE.NEXT);	
 	}
 }
+if(ready2){
+	oPlayer.visible = false;
+	x+=5;
+	if(x >= 192){
+	oPlayer.x = x;
+	oPlayer.y = y;
+	oPlayer.visible = true;
+	instance_destroy();
+	}
+}
