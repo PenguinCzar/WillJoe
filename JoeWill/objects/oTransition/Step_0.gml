@@ -28,6 +28,13 @@ if(mode != TRANS_MODE.OFF){
 				game_restart();
 				break;
 			}
+			case TRANS_MODE.DEATH:
+			{
+				mode = TRANS_MODE.INTRO;
+				room_goto(room);
+				break;
+			}
+			
 		}
 	}
 }

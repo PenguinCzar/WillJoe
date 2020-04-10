@@ -24,6 +24,7 @@ if (hascontrol)
 					x = x + sign(hsp);
 				}
 				hsp = 0;
+				
 		}
 		x = x + hsp;
 
@@ -33,6 +34,7 @@ if (hascontrol)
 				while (!place_meeting(x,y+sign(vsp),oWall))
 				{
 					y = y + sign(vsp);
+					
 				}
 				vsp = 0;
 		}
@@ -54,9 +56,18 @@ if (hascontrol)
 if place_meeting(x,y+1,oWall)
 {
 	jumps = jumpsmax
-
+   walljump = true;
 
 }
+
+if (place_meeting(x+hsp,y,oWall)) and (key_jump) and (walljump == true)
+{
+	jumps = jumpsmax + 1;
+	walljump = false;
+}
+
+
+
 
 if (key_jump) && (jumps > 0)
 {

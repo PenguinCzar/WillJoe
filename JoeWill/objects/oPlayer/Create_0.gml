@@ -5,7 +5,7 @@ vsp = 0;
 grv = 0.3;
 walksp = 4;
 hascontrol = 1;
-
+walljump = true;
 
 jumpspeed = 7;
 

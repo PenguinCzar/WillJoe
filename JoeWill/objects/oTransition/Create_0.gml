@@ -6,8 +6,9 @@ enum TRANS_MODE{
 	NEXT,
 	GOTO,
 	RESTART,
-	INTRO
+	INTRO,
+	DEATH
 }
 mode = TRANS_MODE.INTRO;
 percent = 1;
-target = room;
+target = undefined;
