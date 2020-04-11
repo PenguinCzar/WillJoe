@@ -1,5 +1,4 @@
 #region//Get Player Input
-show_debug_message(vsp);
 if (hascontrol)
 {
 	key_left = keyboard_check(ord("A")) || keyboard_check(vk_left);
